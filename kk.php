@@ -1,1 +1,4 @@
-asdasdasdad
+<?php
+
+
+	phpinfo();
