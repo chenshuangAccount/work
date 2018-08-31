@@ -3,4 +3,6 @@
 
 	phpinfo();
 
-	var_dump(123123);
+	var_dump(12312sadsdasd3);
+
+	echo 21312312;
