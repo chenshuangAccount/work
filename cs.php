@@ -1,7 +1,7 @@
 <?php
 
 
-file_put_contents('cs.log', 'asbdajshdkasdasdasd');
+	file_put_contents('cs.log', 'asbdajshdkasdasdasd');
 
 
 
